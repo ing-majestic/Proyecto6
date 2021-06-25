@@ -1,4 +1,4 @@
-# Proyecto6 Foce-Directed | Algoritmo Fruchterman y Reignold 
+# Proyecto 6 Foce-Directed | Algoritmo Fruchterman y Reignold | Videos
 
 _Se implementa los algoritmos de equilibrio de fuerzas de Fruchterman y Reigold(1991), asi como la utilización de optimización de Barnes y Hut(1986).
 ![Alt text](/screenshots/fruchterman-Reigold_100_A.png?raw=true "Optional Title")
