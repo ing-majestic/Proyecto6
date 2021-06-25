@@ -4,6 +4,9 @@
 
 _Se implementa los algoritmos de equilibrio de fuerzas de Fruchterman y Reigold(1991), asi como la utilización de optimización de Barnes y Hut(1986).
 ![Alt text](/screenshots/fruchterman-Reigold_100_A.png?raw=true "Optional Title")
+## Videos 🚀
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://youtu.be/neqcUIjj-oI)
+https://youtu.be/neqcUIjj-oI
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
