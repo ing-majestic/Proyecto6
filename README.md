@@ -1,13 +1,49 @@
-# Proyecto6
-# Foce-Directed 
-# Algoritmo Fruchterman y Reignold 
+# Proyecto6 Foce-Directed | Algoritmo Fruchterman y Reignold 
 
 _Se implementa los algoritmos de equilibrio de fuerzas de Fruchterman y Reigold(1991), asi como la utilización de optimización de Barnes y Hut(1986).
 ![Alt text](/screenshots/fruchterman-Reigold_100_A.png?raw=true "Optional Title")
 ## Videos 🚀
-[![Alt text](https://img.youtube.com/vi/neqcUIjj-oI/0.jpg)]
-(https://www.youtube.com/watch?v=neqcUIjj-oI)
+
+```
+Video Fruchterman Reigold 500 nodos
+```
+[![Alt text](https://img.youtube.com/vi/OnKIAVHlh7s/0.jpg)](https://www.youtube.com/watch?v=OnKIAVHlh7s)
+
+https://youtu.be/OnKIAVHlh7s
+
+```
+Video Fruchterman Reigold 100 nodos
+```
+[![Alt text](https://img.youtube.com/vi/neqcUIjj-oI/0.jpg)](https://www.youtube.com/watch?v=neqcUIjj-oI)
+
 https://youtu.be/neqcUIjj-oI
+
+```
+Video Barnes Hut 500 nodos
+```
+[![Alt text](https://img.youtube.com/vi/n15xH1Pwn-s/0.jpg)](https://www.youtube.com/watch?v=n15xH1Pwn-s)
+
+https://youtu.be/n15xH1Pwn-s
+
+```
+Video Barnes Hut 100 nodos
+```
+[![Alt text](https://img.youtube.com/vi/tqgWu4mYQLM/0.jpg)](https://www.youtube.com/watch?v=tqgWu4mYQLM)
+
+https://youtu.be/tqgWu4mYQLM
+
+## ScreenShots 🚀
+
+![Alt text](/screenshots/fruchterman-Reigold_100_A.png?raw=true "fruchterman-Reigold_100_A")
+![Alt text](/screenshots/fruchterman-Reigold_100_B.png?raw=true "fruchterman-Reigold_100_B")
+![Alt text](/screenshots/fruchterman-Reigold_500_A.png?raw=true "fruchterman-Reigold_500_A")
+![Alt text](/screenshots/fruchterman-Reigold_500_B.png?raw=true "fruchterman-Reigold_500_B")
+![Alt text](/screenshots/Barnes-Hut_100_A.png?raw=true "Barnes-Hut_100_A")
+![Alt text](/screenshots/Barnes-Hut_100_B.png?raw=true "Barnes-Hut_100_B")
+![Alt text](/screenshots/Barnes-Hut_500_A.png?raw=true "Barnes-Hut_500_A")
+![Alt text](/screenshots/Barnes-Hut_500_B.png?raw=true "Barnes-Hut_500_B")
+
+
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
